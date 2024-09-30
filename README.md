@@ -46,22 +46,7 @@ The dataset used for training and validation is in CSV format and contains vario
 
 Place the dataset in the same directory as the script, naming the training file `train.csv`.
 
-## Usage
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/mlp-drug-target-classification.git
-   cd mlp-drug-target-classification
-   ```
-
-2. Run the main script:
-
-   ```bash
-   python main.py
-   ```
-
-3. The model will preprocess the data, train the MLP model, and print the validation accuracy.
 
 ## Model Architecture
 
